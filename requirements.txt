@@ -6,6 +6,7 @@ statsmodels
 scikit-learn
 prophet
 matplotlib
+langchain-llm7
 langchain
 langgraph
 xgboost
