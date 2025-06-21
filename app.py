@@ -1,5 +1,3 @@
-
-
 from langchain_llm7 import ChatLLM7
 from langchain_core.messages import HumanMessage, AIMessage
 from langchain.prompts import PromptTemplate
@@ -109,8 +107,6 @@ def forecast_ts(data):
     from statsmodels.tsa.holtwinters import ExponentialSmoothing
     from tbats import TBATS
     from sklearn.preprocessing import MinMaxScaler
-    import warnings
-    warnings.filterwarnings('ignore')
 
     # ================================
     # Enhanced Data Validation
