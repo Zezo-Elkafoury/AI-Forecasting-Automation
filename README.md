@@ -39,3 +39,6 @@ An AI-powered tool that combines automated time series forecasting with intellig
 - Automatic code generation
 - Dynamic visualization rendering
 - Robust error handling
+
+## Web App
+[Streamlit Web APP]('https://ai-forecasting-ziad-elkafoury.streamlit.app/')
