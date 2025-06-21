@@ -41,4 +41,4 @@ An AI-powered tool that combines automated time series forecasting with intellig
 - Robust error handling
 
 ## Web App
-[Streamlit Web APP](https://ai-forecasting-ziad-elkafoury.streamlit.app)
+[Streamlit Web App](https://ai-forecasting-ziad-elkafoury.streamlit.app)
