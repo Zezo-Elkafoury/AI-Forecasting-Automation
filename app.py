@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 from matplotlib.dates import DateFormatter
 
 llm = ChatLLM7(
-    model='gpt-4o-mini'
+    model='gpt-4.1-2025-04-14'
 )
 
 ## 1- Forecast Preprocessor
