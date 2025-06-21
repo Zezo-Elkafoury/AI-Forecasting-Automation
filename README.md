@@ -4,7 +4,8 @@
 An AI-powered tool that combines automated time series forecasting with intelligent data question answering, delivered through an intuitive Streamlit interface.
 
 ## Key Features
-
+### Used LLM7
+- I used LLM7 as an open source LLM provider
 ### Forecasting Capabilities
 - Automated future predictions (Prophet, SARIMAX, XGBoost)
 - Multi-model evaluation and selection
