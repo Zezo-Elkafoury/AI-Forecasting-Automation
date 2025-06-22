@@ -107,7 +107,6 @@ def forecast_ts(data):
     from prophet import Prophet
     from statsmodels.tsa.seasonal import seasonal_decompose
     from statsmodels.tsa.holtwinters import ExponentialSmoothing
-    from tbats import TBATS
     from sklearn.preprocessing import MinMaxScaler
     import warnings
     warnings.filterwarnings('ignore')
