@@ -1,7 +1,7 @@
 # Time Series Forecasting & Data Analysis Assistant
 
 ## Overview
-An AI-powered tool that combines automated time series forecasting with intelligent data question answering, delivered through an intuitive Streamlit interface.
+An AI-powered tool that combines automated time series forecasting with intelligent data question answering, delivered through an intuitive Streamlit interface, so that companies can automate routine forecasting and data analysis tasks.
 
 ## Key Features
 ### Used LLM7
