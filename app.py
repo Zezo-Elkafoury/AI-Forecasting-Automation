@@ -2,7 +2,7 @@
 import pandasai as pai
 from langchain_llm7 import ChatLLM7
 from langchain_core.messages import HumanMessage, AIMessage
-from langchain.prompts import PromptTemplate
+from langchain_core.prompts import PromptTemplate
 from langchain_core.output_parsers import JsonOutputParser,BaseOutputParser
 from langgraph.graph import StateGraph,END
 import pandas as pd
