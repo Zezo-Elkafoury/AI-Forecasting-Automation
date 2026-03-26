@@ -12,6 +12,8 @@ from matplotlib.dates import DateFormatter
 
 llm = ChatLLM7(
     model='gpt-4.1-2025-04-14'
+    api_key='arq2mzE8cabfT/6C6r6zaJFNQz/qOY8Oe2zYNF5WSxKWTPRNpPQv4FjLmrFHCGHZwBwOwjDqZBOmHxAW6uWSX57HDSZLk9S2IbUDd1IYwHsyIHzYJnDIHryJeHvR1+OXDVKwOg21',
+    base_url='https://api.llm7.io/v1'
 )
 
 ## 1- Forecast Preprocessor
